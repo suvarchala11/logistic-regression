@@ -1,0 +1,2 @@
+# suvarchala
+logistic regression example
