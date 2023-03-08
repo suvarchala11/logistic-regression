@@ -1,2 +1,2 @@
-# suvarchala
+# logistic regression
 logistic regression example
